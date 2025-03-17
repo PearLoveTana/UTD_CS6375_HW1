@@ -1,0 +1,1 @@
+This file only contains the source code. If you want to reproduce the result, you need to fill the <Data_Embedding> with data, which should include the "training.json", "validation.json", "test.json", and "word_embedding.pkl".
